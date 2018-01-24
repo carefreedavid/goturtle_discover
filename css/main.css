@@ -49,6 +49,10 @@ h5 {
 	padding-bottom: 3%
 }
 
+.test_text {
+	font-size: 10px;
+}
+
 .btn {
 	background-color: #3bc492;
 	color: #fff;
@@ -97,6 +101,7 @@ ul li {
 .section {
 	padding: 60px 0;
 }
+
 .no-padding {
 	padding: 0;
 }
@@ -149,6 +154,7 @@ ul li {
 }
 .navigation {
 	float: right;
+	padding-top: 3%;
 }
 .navigation li {
 	display: inline-block;
@@ -305,7 +311,7 @@ ul li {
 -------------------------------------------------------------------------------*/
 
 .banner {
-	background-color: #00845F;
+	background-color: #424242;
 	min-height: 750px;
 }
 .banner-text {
@@ -407,6 +413,13 @@ ul li {
     -ms-transform: translate3d(0, 0, 0);
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0); }
+
+.services-heading {
+	font-size: 40px;
+	color: #2d3033;
+	text-align: center;
+	padding-top: 3%;
+}
 
 	/* ------------------------------------------------------------------------------
 	Work animation
